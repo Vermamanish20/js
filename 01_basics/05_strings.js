@@ -33,3 +33,6 @@ console.log(url.replace('%20', '-'))
 console.log(url.includes('mani'));
 
 console.log(gameName.split('-'));
+
+
+// ******** end ******
